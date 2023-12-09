@@ -58,4 +58,5 @@ dependencies {
     testImplementation(junit.junit)
     androidTestImplementation(androidx.test.ext.junit)
     androidTestImplementation(androidx.test.espresso.espresso.core)
+    implementation(com.getkeepsafe.relinker.relinker)
 }

@@ -72,6 +72,9 @@ libraries:
   org.luckypray:
     dexkit:
       version: 2.0.0-rc8
+  com.getkeepsafe.relinker:
+    relinker:
+      version: 1.4.5
   com.google.android.material:
     material:
       version: 1.10.0
